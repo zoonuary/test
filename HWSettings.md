@@ -85,4 +85,7 @@
     * xaml에서 주입
 * Model의 설계 부분 (피드백 내용에 따라 질문사항이 안 될 수 있음)
     * 데이터를 들고있는 클래스를 Model이라고 해도 되는지 ( => DataContainer?)
-    * Common.cs 의 경우 Model 타입별 데이터를 일괄적으로 관리하고 처리하는 DataSource의 역할을 함  
+    * Common.cs 의 경우 Model 타입별 데이터를 일괄적으로 관리하고 처리하는 DataSource의 역할을 함
+ 
+* common 빼고 viewmodel에서 역할을 대신하는거로
+  

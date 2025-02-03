@@ -1,5 +1,7 @@
 
 # HPT.HWSetting 모듈
+모듈로 불러온 UI 구조
+
 ![HWSetting구조이미지](https://github.com/user-attachments/assets/1a7c2035-5dd6-4140-b7d2-a73fe724d070)
 
 

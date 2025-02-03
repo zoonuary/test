@@ -1,6 +1,7 @@
 
 # HPT.HWSetting 모듈
-![Image](https://github.com/user-attachments/assets/a8cf8000-3524-4fee-9371-6b288fb76050)
+![HWSetting구조이미지](https://github.com/user-attachments/assets/1a7c2035-5dd6-4140-b7d2-a73fe724d070)
+
 
 # 패턴 및 폴더 구조
 #### 패턴 : MVVM
